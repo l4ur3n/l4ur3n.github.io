@@ -14,7 +14,7 @@ h1, h2, h3 {
 	line-height: 1.2;
 }
 nav {
-	background-color: #FAB;
+	background-color: #B0C;
 	padding: 1em;
 	margin-bottom: 3em;
 	font-weight: bold;
@@ -24,7 +24,7 @@ nav * {
 	margin: 0;
 	line-height: 1.6;
 	text-decoration: none;
-	text-shadow: 0px 0px 0.05em #00F;
+	text-shadow: 0px 0px 0.05em #000;
 	color: #FFF;
 }
 a {
