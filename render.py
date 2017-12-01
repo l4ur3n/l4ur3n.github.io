@@ -8,7 +8,7 @@ template = open("template.html", "r").read()
 
 posts = []
 
-markdown = mistune.Markdown(escape=True)
+markdown = mistune.Markdown(escape=False)
 
 for post_file in glob("posts/*.md"):
 	post = {}
