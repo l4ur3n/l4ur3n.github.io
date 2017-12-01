@@ -1,0 +1,3 @@
+# Simple Static Blogging Engine in Python
+
+I'll finish writing this later...
